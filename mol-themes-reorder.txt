@@ -1,0 +1,236 @@
+MoL 2015/16
+
+SEMESTER 1 (Sept-Dec)
+
+ML: Mathematical Logic
+SP: Semantics & Pragmatics
+B: Basic
+TCS: Theoretical Computer science
+PL: Philosophical Logic
+P: Philosophy
+C: Cognition
+AI: Computational Linguistics/ARtificial Intelligence
+
+
+SP,AI- [MoL-FNWI] Computational Pragmatics (Fernandez)
+PL,P,SP- [MoL-FGW]  Meaning, Reference and Modality (Dekker)
+PL,P,SP - [MoL-FGW]  Structures for Semantics (Aloni)
+PL,P,SP - [MAPhil]   Causality and Explanation (Schulz)
+C,P,PL - [MAPhil]   Kant, Logic and Cognition (vLambalgen)
+P,PL,ML - [MoL-FGW]  Philosophy of Mathematics (Incurvati)
+C,P - [MoL-FGW]  Rationality, Cognition and Reasoning (vLambalgen)
+C,P - [GSHum]    Time (vLambalgen)
+PL,SP - [MoL-FNWI] Philosophical Logic (vRooij)
+PL,SP - [MoL-FNWI] Logic and Conversation (Roelofsen)
+ML,PL - [MoL-FNWI] Dynamic Epistemic Logic (Baltag)
+SP,C- [GSHum]    Semantics and Grammar (Dekker)
+SP,C  - [MoL-FNWI] Logical Methods in Cognitive Science (Szymanik)
+AI, C - [MScB&CS]  Foundations of Neural and Cognitive Modelling (Zuidema)
+AI, C - [MScB&CS]  Music Cognition (Honing)
+AI, C - [MScB&CS]  Cognitive Models of Language and Music (Bod)
+PL,P - [MoL-FNWI] Logic, Knowledge and Science (Smets)
+PL,P - [MoL-FGW]  Possible Worlds: Logic and Metaphysics (Berto)
+
+TCS,ML - [MScCS-VU] Protocol Validation (Fokkink)
+TCS, ML - [MoL-FNWI] Lambda Calculus (Rodenburg)
+
+
+B,TCS,AI - [MoL-FNWI] Basic Probability, Computing and Statistics (Sima'an) [3EC]
+
+AI - [MScAI]    Natural Language Processing 1 (Titov)
+
+
+- [MoL-FNWI] Logic, Language and Computation (Aloni) [3EC]
+B,ML - [BScWisk]  Introduction to Modal Logic (Bezhanishvili)
+
+Period 1a (Sept/Oct)
+B - [MoL-FNWI] Basic Logic (Incurvati)
+TCS - [MoL-FNWI] Computational Complexity (Buhrman)
+TCS - [MoL-FNWI] Functional Specification of Algorithms (vEijck)
+TCS - [MoL-FNWI] Recursion Theory (Rodenburg)
+P - [MoL-FGW]  Neurophilosophy of the Self (Kiverstein)
+P - [GSHum]    Introduction to the Philosophy of Language (Brouwer)
+AI - [MScAI]    Knowledge Representation (vHarmelen)
+TCS - [MScCS-VU] Concurrency Theory (Ponse)
+P - [MScPhys]  Philosophy of Science (van Dongen)
+
+Period 1b (Nov/Dec)
+
+ML - [MoL-FNWI] Proof Theory (vdBerg)
+TCS - [MoL-FNWI] Information Theory (Schaffner)
+ML - [MoL-FNWI] Capita Selecta Modal Logic, Algebra, Coalgebra (Venema)
+P - [MoL-FGW]  Advanced Topics in the Philosophy of Language (TBA)
+P - [MoL-FGW]  The Computational Mind and its Critics (Kiverstein)
+
+SEMESTER 2 (Feb-May)
+
+ML - [BScWisk]  Axiomatic Set Theory (Baltag)
+ML - [MastMath] Model Theory (vdBerg) [8EC]
+ML - [MastMath] Category Theory and Topos Theory (vOosten) [8EC]
+ML - [MastMath-VU] Set Theory (Hart) [8EC]
+
+Period 2a (Feb/Mar)
+
+
+TCS - [MoL-FNWI] Introduction to Modern Cryptography (Schaffner)
+TCS - [MoL-FNWI] Combinatorics with Computer Science Applications (dWolf)
+TCS, ML - [MoL-FNWI] Computability and Interaction (Baeten)
+ML - [MoL-FNWI] Mathematical Structures in Logic (Bezhanishvili)
+ML - [MoL-FNWI] Seminar Mathematical Logic (Loewe) [3EC]
+SP - [MoL-FNWI] Semantics and Pragmatics in Bayesian Interpretation (Zeevat)
+P - [MoL-FGW]  Wittgenstein's Relevance: Sources (Stokhof)
+P - [MAPhil]   Early Modern Philosophy of Language (Maat)
+
+Period 2b (Apr/May)
+
+TCS - [MoL-FNWI] Game Theory (TBD)
+ML - [MoL-FNWI] Homotopy Type Theory (vdBerg)
+TCS - [MoL-FNWI] Kolmogorov Complexity (Torenvliet)
+ML - [MoL-FNWI] Studies of Mathematical and Logical Practice (Loewe)
+P - [MoL-FGW]  Wittgenstein's Relevance: Perspectives (Stokhof)
+AI - [MScAI]    Natural Language Processing 2 (Sima'an)
+AI - [MScAI]    Unsupervised Language Learning (Titov)
+AI - [MScAI]    Knowledge Representation for the Web (Schlobach)
+
+
+
+
+
+
+MASTER OF LOGIC: THEMES
+Ulle Endriss, 30 June 2015
+
+Note that some courses are listed under more than one theme.
+
+BASIC SKILLS
+- Basic Logic
+- Basic Probability, Computing and Statistics
+[The Python programming language is introduced in the latter course. 
+To learn Haskell, take Functional Specification of Algorithms. 
+Other programming languages are occasionally covered in project courses.]
+
+MATHEMATICAL LOGIC
+- Proof Theory
+- Model Theory
+- Recursion Theory
+- Axiomatic Set Theory
+- Set Theory [2015/16 only]
+- Introduction to Modal Logic
+- Capita Selecta Modal Logic, Algebra, Coalgebra
+- Mathematical Structures in Logic
+- Homotopy Type Theory
+- Category Theory and Topos Theory [2015/16 only]
+- Seminar Mathematical Logic
+[Regarding the two set theory courses, Set Theory is recommended for students 
+with a strong mathematical background; Axiomatic Set Theory will cover less 
+material and be more accessible to non-mathematicians. You cannot take both courses.]
+[Modal Logic has a special status in that modal logic plays an important role 
+also in several of the less mathematically oriented logic courses, as well as 
+some of the formal semantics and philosophical courses. It also has applications
+in Computer Science and AI. Most students should consider taking it.]
+
+PHILOSOPHICAL LOGIC
+- Philosophical Logic
+- Dynamic Epistemic Logic
+- Logic, Knowledge and Science
+- Possible Worlds: Logic and Metaphysics
+- Kant, Logic and Cognition
+- Logic and Conversation
+
+FORMAL SEMANTICS AND PRAGMATICS
+- Meaning, Reference and Modality
+- Structures for Semantics
+- Semantics and Grammar
+- Causality and Explanation
+- Logic and Conversation
+- Computational Pragmatics
+- Semantics and Pragmatics in Bayesian Interpretation 
+
+COMPUTATIONAL LINGUISTICS
+- Natural Language Processing 1
+- Natural Language Processing 2
+- Unsupervised Language Learning
+- Computational Pragmatics
+- Semantics and Pragmatics in Bayesian Interpretation 
+[The first three of the above courses particularly emphases the 
+statistical/machine learning perspective on computational linguistics. 
+Students taking these courses are expected to be familiar with the kind of 
+material covered in Basic Probability, Computing and Statistics. Some students 
+may want to combine them with some of the straight machine learning courses 
+from the MSc AI.]
+
+COGNITION
+[Courses range from philosophical foundations to mathematical and computational
+modelling. Some address specific aspects of cognition (language, music).]
+- Neurophilosophy of the Self
+- The Computational Mind and its Critics
+- Kant, Logic and Cognition
+- Rationality, Cognition and Reasoning
+- Logical Methods in Cognitive Science
+- Foundations of Neural and Cognitive Modelling
+- Cognitive Models of Language and Music
+- Music Cognition
+[Some students may wish to look for further electives from the offerings of 
+the MSc Brain and Cognitive Science.]
+
+ARTIFICIAL INTELLIGENCE
+[The main AI themes represented at the ILLC and in the MoL are Natural Language 
+Processing (and Machine Learning as far as it is useful for NLP), Knowledge 
+Representation and Reasoning, and Multiagent Systems.] 
+- NLP: all of the courses listed under Computational Linguistics
+- KRR: Knowledge Representation
+- KRR: Knowledge Representation for the Web
+- MAS: Computational Social Choice [not in 2015/16]
+[Note that description logics (taught in the KRR courses) are very closely
+related to modal logics, so it makes sense to combine the relevant courses.]
+[Students interested in AI may want to pick additional courses from the MSc AI.]
+
+THEORETICAL COMPUTER SCIENCE
+[Some people distinguish "TCS A" (algorithms and complexity) from "TCS B" 
+(with its origins in the study of the semantics of programming languages).]
+- A: Computational Complexity
+- A: Quantum Computing [not in 2015/16]
+- A: Combinatorics with Computer Science Applications
+- A: Information Theory
+- A: Kolmogorov Complexity
+- A: Introduction to Modern Cryptography
+- B: Computability and Interaction
+- B: Functional Specification of Algorithms 
+- B: Protocol Validation
+- B: Concurrency Theory
+- B: Lambda Calculus
+[Some students may also want to looks for other courses from the MSc Computer 
+Science programme at the VU, particularly from its Foundations track.]
+
+ECONOMIC THEORY
+- Game Theory
+- Computational Social Choice [not in 2015/16]
+[There are further game theory courses in the Economics department.
+Some of the courses listed under philosophical logic also take up the 
+game-theoretical themes, notably Dynamic Epistemic Logic and Logic, Knowledge 
+and Science.]
+
+PHILOSOPHY
+[Courses in philosophy cover Philosophy of Science, Philosophy of Language, 
+Philosophy of Mind, and Metaphysics.] 
+- PoS: Philosophy of Mathematics
+- PoS: Philosophy of Science
+- PoS: Logic, Knowledge and Science
+- PoL: Meaning, Reference and Modality
+- PoL: Introduction to the Philosophy of Language
+- PoL: Advanced Topics in the Philosophy of Language
+- PoL: Wittgenstein's Relevance: Sources
+- PoL: Wittgenstein's Relevance: Perspectives
+- PoL: Early Modern Philosophy of Language
+- PoM: Neurophilosophy of the Self
+- PoM: The Computational Mind and its Critics
+- Meta: Possible Worlds: Logic and Metaphysics
+[Some students may also be interested in some of the other courses offered 
+in the MA Philosophy.]
+
+HARD TO CLASSIFY
+- Logic, Language and Computation
+- Time
+- Studies of Mathematical and Logical Practice
+[But note that the Studies course is specifically intended to be taken together 
+with Philosophy of Mathematics.]
