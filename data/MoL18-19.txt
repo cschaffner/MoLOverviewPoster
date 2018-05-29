@@ -1,0 +1,109 @@
+MoL Curriculum 18/19
+
+SEMESTER 1 (Sept-Dec)
+
+[MoL-FNWI] Logic, Language and Computation (Aloni) [3EC]  
+[MoL-FNWI] Seminar Mathematical Logic (Löwe and Galeotti) [3EC]        
+[MoL-FNWI] Recursion Theory (Rodenburg)  
+[MoL-FNWI] Lambda Calculus (Rodenburg)   
+[BScWisk]  Introduction to Modal Logic (Bezhanishvili)  
+[MastMath] Set Theory (Löwe and Hart, TUD) [8EC]  
+[MastMath] Machine Learning Theory (Koolen, CWI & Grünwald, CWI  & de Heide, UL)[8EC] 
+[MastMath] Topos Theory (vOosten, UU) [8EC]
+
+Period 1a (Sept/Oct)
+
+[MoL-FNWI] Mathematical Proof Methods for Logic (Hawke)  
+[MoL-FNWI] Computability and Interaction (Baeten)  
+[MoL-FNWI] Logic and Conversation (Roelofsen)  
+[MoL-FNWI] Logical Methods in Cognitive Science (Szymanic) 
+[MoL-FNWI] Computational Semantics and Pragmatics (Fernandez) 
+[MoL-FNWI] Basic Probability: Theory (Cremers, TBC) [3EC] 
+
+[MoL-FGW]  Meaning, Reference and Modality (Dekker) 
+[MoL-FGW]  Rationality, Cognition and Reasoning (vLambalgen)
+[MoL-FGW]  Introduction to the Philosophy of Language (Brouwer)
+[MScCS-VU] Protocol Validation (Ponse) 
+[RM-Ling]  Syntax and Semantics 1 (Hengeveld & Aboh) 
+ 
+%%%%%%%%%%%%%%%%
+
+Period 1b (Nov/Dec)
+
+[MoL-FNWI] Philosophical Logic (vRooij) 
+[MoL-FNWI] Information Theory (Schaffner)  
+[MoL-FNWI] Dynamic Epistemic Logic (Baltag)  
+[MoL-FNWI] Topics in Modal Logic (Venema)   
+[MoL-FNWI] Basic Probability: Programming (Dotlacil, TBC) [3EC] 
+
+[MoL-FGW]  Causal inference: philosophical theory and modern practice (Schulz)
+* [MoL-FGW]  Philosophy of cognition (Brouwer) 
+[MoL-FGW]  History of logic: Theories of Language in Early Modern Philosophy (Maat)
+* [MoL-FGW]  Semantics and Philosophy (Dekker and Aloni)
+
+[MScAI]    Natural Language Processing 1 (Shutova, organised as MoL project in 2018/19)  
+[MScB&CS]  Foundations of Neural and Cognitive Modelling (Zuidema)  
+[MScB&CS]  Cognition and Language Development (Schaeffer) 
+[MScCS]    Concurrency Theory (Ponse)  
+  
+%%%%%%%%%%%%%%%%%%%%%%
+
+SEMESTER 2 (Feb-May)
+
+[MastMath] Model Theory (Venema) [8EC]
+[MastMath] Quantum Computing (de Wolf) [8EC] 
+[MastMath] Quantum Information Theory (Walter and Ozols) [8EC] 
+[MScCS-VU] Term Rewriting Systems (Endrullis)  
+ 
+
+Period 2a (Feb/Mar)
+
+[MoL-FNWI] Proof Theory (vdBerg)  
+[MoL-FNWI] Computational Complexity (Torenvliet)  
+[MoL-FNWI] Mathematical Structures in Logic (Bezhanishvili)    
+[MoL-FNWI] Game Theory (Endriss)  
+ 
+[MoL-FGW]  Philosophy of Mathematics (Incurvati) 
+[MoL-FGW]  Wittgenstein on Ethics and Aesthetics (Stokhof) 
+[MoL-FGW]  Time (vLambalgen)
+[MoL-FGW]  Ontology: Philosophical Perspectives (TBC) 
+* [MoL-FGW]  Philosophy of Techno Science (Russo)
+
+[MScB&CS]  Cognitive Models of Language and Music (Lentz)
+* [MScAI]    Seminar Combining Symbolic and Statistical Methods in AI (vHarmelen)
+[RM-Ling]  Syntax and Semantics 2 (Hengeveld)
+
+Period 2b (Apr/May)
+ 
+[MoL-FNWI] Computational Social Choice (Endriss) 
+[MoL-FNWI] Kolmogorov Complexity (Torenvliet)  
+[MoL-FNWI] Category Theory (van den Berg)
+[MoL-FNWI] Epistemic Paradoxes and Philosophical Puzzles (Smets) 
+* [MoL-FNWI] Topology, Logic and Learning (Baltag)
+ 
+[MoL-FGW]  Structures for Semantics (Aloni)  
+[MoL-FGW]  Kant, Logic and Cognition (vLambalgen)
+[MoL-FGW]  Advanced Topics in Philosophy of Language (Dekker)
+* [MoL-FGW]  Logic and Philosophy (TBC, will replace Possible Worlds: Logic and Metaphysics)  
+  
+[MScB&CS]  How Music Works: Music Cognition (Honing)  
+[MScAI]    Natural Language Processing 2 (Sima’an)  
+[MScAI]    Statistical Methods for Natural Language Semantics (Shutova)
+* [MScCS-VU] Distributed Algorithms (Fokkink) 
+* [MScCS-VU] Logical Verification (TBC)
+  
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Courses offered in past years
+ 
+ 
+[MScAI]    Knowledge Representation (vHarmelen)  (no longer in our curriculum)
+[MScAI]    Knowledge Representation on the Web (Schlobach)  (no longer in our curriculum)
+[MastMath] Category Theory and Topos Theory (van Oosten, UU) [8EC] (will be given again in 2019/20)
+[MoL-FNWI] Homotopy Type Theory   (vdBerg) (it will be given again in 2019/20)
+ 
+ 
+
+
+ 
