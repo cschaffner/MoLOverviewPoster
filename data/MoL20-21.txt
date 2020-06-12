@@ -1,0 +1,123 @@
+MoL Curriculum 20/21
+
+SEMESTER 1 (Sept-Dec)
+
+[MoL-FNWI] Logic, Language and Computation (Dekker) [3EC]         
+[MoL-FNWI] Lambda Calculus (Rodenburg)   
+[BScWisk]  Introduction to Modal Logic (Bezhanishvili)  
+[MastMath] Set Theory (Löwe and Hart, TUD) [8EC]  
+[MastMath] Category Theory (van den Berg) [8EC]
+ 
+
+Period 1a (Sept/Oct)
+
+[MoL-FNWI] Recursion Theory (Marti) 
+[MoL-FNWI] Capita Selecta: Set Theory (Löwe)  
+[MoL-FNWI] Computability and Interaction (Baeten) 
+[MoL-FNWI] Mathematical Proof Methods for Logic (Schlöder)   
+[MoL-FNWI] Basic Probability: Theory (Aziz) [3EC] 
+[MoL-FNWI] Rudiments of Axiomatic Set Theory (Löwe, linked to Mastermath course Set Theory) [3EC]
+ 
+[MoL-FGW]  Meaning, Reference and Modality (Dekker) 
+[MoL-FGW]  Rationality, Cognition and Reasoning (vLambalgen)
+[MoL-FGW]  Introduction to the Philosophy of Language (Brouwer)
+ 
+[MScAI] Deep Learning for Natural Language Processing (Monz, Aziz)
+[MScCS-VU] Protocol Validation (Ponse) 
+[RM-Ling]  Syntax and Semantics 1 (Hengeveld, TBC) 
+[MScB&CS]  Foundations of Neural and Cognitive Modelling (Zuidema) [5EC]
+ 
+%%%%%%%%%%%%%%%%
+
+Period 1b (Nov/Dec)
+
+[MoL-FNWI] Philosophical Logic (vRooij) 
+[MoL-FNWI] Information Theory (Schaffner)  
+[MoL-FNWI] Dynamic Epistemic Logic (Baltag)  
+[MoL-FNWI] Logic and Conversation (Roelofsen)  
+[MoL-FNWI] Topics in Modal Logic (Venema)  
+[MoL-FNWI] Basic Probability: Programming (Aziz) [3EC] 
+
+[MoL-FGW]  Philosophy of Cognition (Brouwer) 
+[MoL-FGW]  Semantics and Philosophy (Dekker & Aloni)  
+[MoL-FGW]  Data-driven History of Ideas (Betti)
+[MoL-FGW]  Philosophy of Techno-Science (Russo)
+  
+[MScAI]    Natural Language Processing 1 (Shutova)   
+[MScB&CS]  Cognition and Language Development (Schaeffer) 
+[MScCS]    Concurrency Theory (Ponse)  
+[MScCS-VU] Logical Verification (Blanchette) 
+[MScB&CS]  Advanced Neural and Cognitive Modelling (Zuidema) 
+  
+%%%%%%%%%%%%%%%%%%%%%%
+
+SEMESTER 2 (Feb-May)
+
+ 
+[MastMath] Quantum Computing (de Wolf) [8EC] 
+[MastMath] Quantum Information Theory (Walter and Ozols) [8EC] 
+[MastMath] Machine Learning Theory (Koolen, CWI & Grünwald, CWI  & de Heide, UL) [8EC] 
+[MastMath] Topos Theory (van Oosten) [8EC]
+
+ 
+Period 2a (Feb/Mar)
+
+[MoL-FNWI] Proof Theory (van den Berg)  
+[MoL-FNWI] Computational Complexity (de Haan)  
+[MoL-FNWI] Game Theory (Endriss)  
+[MoL-FNWI] Topology, Logic and Learning (Baltag) 
+[MoL-FNWI] Mathematical Structures in Logic (Bezhanishvili) 
+[MoL-FNWI] Epistemic Paradoxes and Philosophical Puzzles (Smets)  
+ 
+[MoL-FGW]  Philosophy of Mathematics (Incurvati) 
+[MoL-FGW]  Time (vLambalgen)
+[MoL-FGW]  Logic and Philosophy (Assadian) 
+[MoL-FGW]  Radical Interpretation, Hermeneutics, Practice Theory (Stokhof) 
+
+[RM-Ling]  Syntax and Semantics 2 (Hengeveld, TBC)
+[MScCS-VU] Term Rewriting Systems (Endrullis) 
+
+Period 2b (Apr/May)
+
+[MoL-FNWI] Model Theory (Venema)
+[MoL-FNWI] Logic, Games and Automata (Afshari)  
+[MoL-FNWI] Kolmogorov Complexity (Torenvliet)  
+[MoL-FNWI] Computational Social Choice (Endriss) 
+[MoL-FNWI] Advanced Topics in Computational Semantics (Shutova)
+[MoL-FNWI] Computational Dialogue Modelling (Fernandez)
+[MoL-FNWI] Seminar Mathematical Logic (Löwe and Galeotti) [3EC]  
+ 
+[MoL-FGW]  Structures for Semantics (Aloni)  
+[MoL-FGW]  Causal inference: philosophical theory and modern practice (Schulz)
+[MoL-FGW]  Kant, Logic and AI (vLambalgen)
+[MoL-FGW]  Advanced Topics in Philosophy of Language (TBA)
+   
+[MScB&CS]  How Music Works: Music Cognition (Honing)  
+[MScAI]    Natural Language Processing 2 (Zuidema, coord)  
+[MScCS-VU] Distributed Algorithms (Fokkink) 
+   
+Period 2c (June)
+  
+[MScAI]  Knowledge Representation and Reasoning (de Haan)
+ 
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Courses offered in past years
+
+[MoL-FNWI] Semantics and Cognition (Szymanik) 
+[MScB&CS]  Cognitive Models of Language and Music (Lentz) 
+[MScAI]    Machine Learning for NLP (Aziz, was planned, might become NLP2A/B) 
+[MScAI]    Seminar Combining Symbolic and Statistical Methods in AI (vHarmelen, canceled)
+[MScAI]    Knowledge Representation (vHarmelen)  (no longer in our curriculum)
+[MScAI]    Knowledge Representation on the Web (Schlobach)  (no longer in our curriculum)
+[MScAI]    Statistical Methods for Natural Language Semantics (Shutova will be maybe given as NLP 2A/B)
+[MoL-FNWI] Homotopy Type Theory   (vdBerg) (it will be given again in 2020/21?)
+[MoL-FGW]  History of logic: Theories of Language in Early Modern Philosophy (Maat)
+[MoL-FGW]  Wittgenstein on Ethics and Aesthetics (Stokhof) 
+[MoL-FGW]  Ontology: Philosophical Perspectives (TBC) 
+ 
+ 
+ 
+
+
+ 
